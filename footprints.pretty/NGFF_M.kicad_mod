@@ -49,7 +49,7 @@
 			)
 		)
 	)
-	(attr through_hole allow_soldermask_bridges)
+	(attr smd allow_soldermask_bridges)
 	(fp_poly
 		(pts
 			(xy -9.925 0) (xy -6.725 0) (xy -6.725 -2) (xy -9.925 -2)
