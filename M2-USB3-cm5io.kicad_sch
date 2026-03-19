@@ -6797,7 +6797,7 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 116.84) (xy 339.09 116.84)
+			(xy 320.04 116.84) (xy 341.63 116.84)
 		)
 		(stroke
 			(width 0)
@@ -7097,7 +7097,7 @@
 	)
 	(wire
 		(pts
-			(xy 339.09 114.3) (xy 339.09 116.84)
+			(xy 341.63 114.3) (xy 341.63 116.84)
 		)
 		(stroke
 			(width 0)
@@ -11901,7 +11901,7 @@
 				)
 			)
 		)
-		(property "Value" "18pF"
+		(property "Value" "10pf"
 			(at 276.86 219.71 90)
 			(effects
 				(font
@@ -12070,7 +12070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-1212"
+		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
 			(at 170.18 279.4 0)
 			(effects
 				(font
@@ -14998,7 +14998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 122.2248 279.4 0)
 			(effects
 				(font
@@ -15291,7 +15291,7 @@
 				)
 			)
 		)
-		(property "Value" "15K"
+		(property "Value" "10k"
 			(at 281.94 179.07 90)
 			(effects
 				(font
@@ -16985,7 +16985,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 339.09 110.49 0)
+		(at 341.63 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16993,7 +16993,7 @@
 		(dnp no)
 		(uuid "f3f2f891-5bc1-4edc-b999-579956234585")
 		(property "Reference" "R10"
-			(at 345.44 110.49 90)
+			(at 347.98 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17001,7 +17001,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 342.9 110.49 90)
+			(at 345.44 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17009,7 +17009,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 337.312 110.49 90)
+			(at 339.852 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17018,7 +17018,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 339.09 110.49 0)
+			(at 341.63 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17027,7 +17027,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 339.09 110.49 0)
+			(at 341.63 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17179,7 +17179,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3VA")
-		(at 339.09 106.68 0)
+		(at 341.63 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17187,7 +17187,7 @@
 		(dnp no)
 		(uuid "fd5cfd0d-4dbe-434a-9d4f-08b7e17e1eaa")
 		(property "Reference" "#PWR0105"
-			(at 339.09 110.49 0)
+			(at 341.63 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17196,7 +17196,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 340.36 101.6 0)
+			(at 342.9 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17204,7 +17204,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 339.09 106.68 0)
+			(at 341.63 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17213,7 +17213,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 339.09 106.68 0)
+			(at 341.63 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17222,7 +17222,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 339.09 106.68 0)
+			(at 341.63 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
